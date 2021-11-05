@@ -27,7 +27,7 @@ p {
     font-weight: 400;
     font-size: 15px;
     color: hsla(0, 0%, 100%, 0.75);
-    width: 190px;
+    width: 210px;
     height: 100px;
     margin: 25px auto;
 }
@@ -48,6 +48,9 @@ p {
 
 .luxury {
     background-color: hsl(179, 100%, 13%);
+    border-radius: 0;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
 .luxurybtn {
@@ -64,6 +67,8 @@ p {
 
 .sedan {
     background-color: hsl(31, 77%, 52%);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
 }
 
 .sedanbtn {
@@ -72,6 +77,7 @@ p {
 
 .suv {
     background-color: hsl(184, 100%, 22%);
+    border-radius: 0;
 }
 
 .suvbtn {
