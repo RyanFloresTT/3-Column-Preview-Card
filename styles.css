@@ -1,0 +1,82 @@
+body, html {
+    color: white;
+    background-color: hsl(0, 0%, 95%);
+    height: 100%;
+}
+
+button {
+    background-color: hsl(0, 0%, 95%);
+    border-radius: 25px;
+    font-family: "Lexend Deca";
+    font-weight: 400;
+    font-size: 15px;
+    border: none;
+    width: 130px;
+    height: 45px;
+    margin-top: 100px;
+}
+
+h1 {
+    font-family: "Big Shoulders Display";
+    font-weight: 700;
+    margin-top: 25px;
+}
+
+p {
+    font-family: "Lexend Deca";
+    font-weight: 400;
+    font-size: 15px;
+    color: hsla(0, 0%, 100%, 0.75);
+    width: 190px;
+    height: 100px;
+    margin: 25px auto;
+}
+
+.attribution {
+    color: black;
+}
+
+.card {
+    width: 300px;
+    align-items: center;
+    border: none;
+}
+
+.inside{
+    padding: 30px;
+}
+
+.luxury {
+    background-color: hsl(179, 100%, 13%);
+}
+
+.luxurybtn {
+    color: hsl(179, 100%, 13%);
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 20px;
+}
+
+.sedan {
+    background-color: hsl(31, 77%, 52%);
+}
+
+.sedanbtn {
+    color: hsl(31, 77%, 52%);
+}
+
+.suv {
+    background-color: hsl(184, 100%, 22%);
+}
+
+.suvbtn {
+    color: hsl(184, 100%, 22%);
+}
+
+
+
