@@ -31,8 +31,8 @@ Solution Screenshot (Desktop Version) - ![](./images/3columnpreviewcard.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/3-column-preview-card-component-EhpR5ivca](https://www.frontendmentor.io/solutions/3-column-preview-card-component-EhpR5ivca)
+- Live Site URL: [https://3-column-preview-card-1tqe6k9bh-ryanflorestt.vercel.app/](https://3-column-preview-card-1tqe6k9bh-ryanflorestt.vercel.app/)
 
 ## My process
 
