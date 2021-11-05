@@ -15,6 +15,9 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap" rel="stylesheet">
   
+  <!-- Reset CSS -->
+  <link rel="stylesheet" href="reset.css">
+
   <!-- Own CSS -->
   <link rel="stylesheet" href="styles.css">
   <title>Frontend Mentor | 3-column preview card component</title>
@@ -26,10 +29,10 @@
 </head>
 <body>
 
-    <div class="row">
+    <main class="row">
       <div class="sedan card">
         <div class="inside">
-          <object data="./images/icon-sedans.svg">SEDAN-ICON</object>
+          <img src="./images/icon-sedans.svg" alt="SEDAN-IMG" aria-hidden="true">
           <h1>SEDANS</h1>
           <p>Choose a sedan for its affordability and excellent fuel economy. Ideal for cruising in the city 
             or on your next road trip.</p>
@@ -39,7 +42,7 @@
       
       <div class="suv card">
         <div class="inside">
-          <object data="./images/icon-suvs.svg">SUVS-ICON</object>
+          <img src="./images/icon-suvs.svg" alt="SUV-PNG" aria-hidden="true">
           <h1>SUVS</h1> 
           <p>Take an SUV for its spacious interior, power, and versatility. Perfect for your next family vacation 
             and off-road adventures.</p>
@@ -49,16 +52,16 @@
 
       <div class="luxury card">
         <div class="inside">
-          <object data="./images/icon-luxury.svg">LUXURY-ICON</object>
+          <img src="./images/icon-luxury.svg" alt="LUXURY-PNG" aria-hidden="true">
           <h1>LUXURY</h1>
           <p>Cruise in the best car brands without the bloated prices. Enjoy the enhanced comfort of a luxury 
             rental and arrive in style.</p>
             <button class="luxurybtn">Learn More</button>
         </div>
       </div>
-    </div>
+    </main>
 
-  <div class="attribution">
+  <footer class="attribution">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
     Coded by <a href="https://ryanflorestt.github.io/cv/">Ryan Flores</a>.
   </div>
