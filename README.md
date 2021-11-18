@@ -48,7 +48,7 @@ This challenge I am feeling a lot more comfortable writing CSS and HTML than the
 
 ### Continued development
 
-Coming Soon.
+To be updated.
 
 ### Useful resources
 
